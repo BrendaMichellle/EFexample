@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "EFexample",
+  "version": "0.1.0",
+  "description": "Example extension.",
+  "browser_action": {
+    "default_icon":"images/fox.png",
+    "default_popup": "popup.html"
+    },
+  "permissions": []
+}
